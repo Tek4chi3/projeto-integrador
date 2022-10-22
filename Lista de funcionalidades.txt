@@ -1,0 +1,3 @@
+Registrar - guarda todas as informações fornecidas.
+Imprimir - mostra as informações registradas até o momento.
+Alterar - altera alguma informação errada, como por exemplo, o cpf de um Dono ou o peso de um Animal.
